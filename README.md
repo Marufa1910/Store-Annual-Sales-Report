@@ -15,6 +15,8 @@ After processing and analyzing over the sales data, the analysis revealed that t
 * **Channel Performance:** Distribution is heavily reliant on e-commerce giants; **Amazon, Flipkart, and Myntra** combined account for **80%** of all orders.
 
 ---
+### 1. Main Dashboard
+![Annual Report Dashboard](annual-report.png)
 
 ## Technical Stack
 * **Data Cleaning:** [e.g., MS Excel ]
